@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+# Hyprland/Wayland Packages
+ 
+ sudo apt install -y cliphist eza flameshot playerctl bumblebee-status polkit-kde-agent-1 python3-requests python3-pip qt5ct qt5-style-kvantum qt5-style-kvantum-themes wget btop light cava nvtop viewnior
+

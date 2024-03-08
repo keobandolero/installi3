@@ -1,0 +1,5 @@
+"dpkg-reconfigure -plow console-setup" y Enter,elegimos "UTF-8"
+
+ install sudo 
+ sudo usermod -aG sudo sudo 
+ install git
