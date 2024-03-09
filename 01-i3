@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
-# Hyperland dependencies - PACKAGE INCLUDES build-essential.
-  sudo apt install -y i3 xorg lightdm slick-greeter lightdm-settings lxappearance feh firefox-esr pulseaudio alsa-utils pavucontrol tilix xscreensaver xscreensaver-gl
+# i3
+sudo apt install -y xorg lightdm slick-greeter lightdm-settings i3 lxappearance feh firefox-esr pavucontrol tilix xscreensaver xscreensaver-gl flameshot playerctl bumblebee-status polkit-kde-agent-1 python3-requests python3-pip curl wget btop light cava viewnior gnome-themes-extra cmatrix lxsession rofi
+
   
