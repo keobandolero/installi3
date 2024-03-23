@@ -2,7 +2,10 @@
 
 # Actualizar repositorios e instalar NetworkManager y nmcli
 sudo apt update
-sudo apt install -y network-manager nmcli
 
+#sudo apt install -y network-manager nmcli
 # Instalar paquetes para i3 y personalización
-sudo apt install -y xorg lightdm slick-greeter lightdm-settings i3 lxappearance feh firefox-esr pavucontrol tilix xscreensaver xscreensaver-gl flameshot playerctl bumblebee-status polkit-kde-agent-1 python3-requests python3-pip curl wget btop light cava viewnior gnome-themes-extra cmatrix rofi fonts-powerline picom
+#sudo apt install -y xorg lightdm slick-greeter lightdm-settings i3 lxappearance feh firefox-esr pavucontrol tilix xscreensaver xscreensaver-gl flameshot playerctl bumblebee-status polkit-kde-agent-1 python3-requests python3-pip curl wget btop light cava viewnior gnome-themes-extra cmatrix rofi fonts-powerline picom
+
+#Este es solo para cuando e instalado antes el xfce porque no puedo configurar el wifi sin otro wm instalado antes.
+sudo apt install -y i3 feh tilix xscreensaver xscreensaver-gl flameshot playerctl bumblebee-status curl wget btop light cmatrix rofi fonts-powerline picom
